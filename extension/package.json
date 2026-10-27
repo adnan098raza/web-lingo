@@ -1,0 +1,19 @@
+{
+  "name": "weblingo-extension",
+  "version": "0.1.0",
+  "private": true,
+  "description": "WebLingo: automatically translates chosen websites with Chrome's on-device Translator.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite build --watch",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.1.0"
+  }
+}
